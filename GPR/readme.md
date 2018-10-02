@@ -1,5 +1,5 @@
-### # Processo: Gerência de Projetos – GPR
-## Nível MR-MPS-SW: G – Parcialmente Gerenciado
+# Processo: Gerência de Projetos – GPR
+### Nível MR-MPS-SW: G – Parcialmente Gerenciado
 ### Fonte: [MPS.BR - Melhoria de Processo do Software Brasileiro Guia Geral MPS de Software](https://www.softex.br/wp-content/uploads/2013/07/MPS.BR_Guia_Geral_Software_2012-c-ISBN-1.pdf)
 
 ## Propósito:
