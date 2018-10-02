@@ -3,13 +3,11 @@
 ### Fonte: [MPS.BR - Melhoria de Processo do Software Brasileiro Guia Geral MPS de Software](https://www.softex.br/wp-content/uploads/2013/07/MPS.BR_Guia_Geral_Software_2012-c-ISBN-1.pdf)
 
 ## Propósito:
-===== 
 O propósito do processo Gerência de Projetos é estabelecer e manter planos que definem as atividades, recursos e responsabilidades do projeto, bem como prover informações sobre o andamento do projeto que permitam a realização de correções quando houver desvios significativos no desempenho do projeto. O propósito deste processo evolui à medida que a organização cresce em maturidade. Assim, a partir do nível E, alguns resultados evoluem e outros são incorporados, de forma que a gerência de projetos passe a ser realizada com base no processo definido para o projeto e nos planos integrados. No nível B, a gerência de projetos passa a ter um enfoque quantitativo, refletindo a alta maturidade que se espera da organização.
 Novamente, alguns resultados evoluem e outros são incorporados.
 
 
 ## Resultados esperados:
-===== 
 
 ### GPR 1. O escopo do trabalho para o projeto é definido;
 
@@ -33,8 +31,7 @@ Novamente, alguns resultados evoluem e outros são incorporados.
 
 ### GPR 11. A viabilidade de atingir as metas do projeto é explicitamente avaliada considerando restrições e recursos disponíveis. Se necessário, ajustes são realizados;
 
-### GPR 12. O Plano do Projeto é revisado com todos os interessados e o
-compromisso com ele é obtido e mantido;
+### GPR 12. O Plano do Projeto é revisado com todos os interessados e o compromisso com ele é obtido e mantido;
 
 ### GPR 13. O escopo, as tarefas, as estimativas, o orçamento e o cronograma do projeto são monitorados em relação 'ao planejado;
 
